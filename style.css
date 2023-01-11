@@ -1,3 +1,39 @@
+body {
+  min-height: 100vh;
+  position: relative;
+}
+
+a {
+  text-decoration: none;
+}
+
+.pb-custom {
+  padding-bottom: 4.5rem !important;
+}
+
 .mw-540 {
   max-width: 540px;
+}
+
+code {
+  background-color: #f6f8fa;
+  padding: 0.25rem;
+}
+
+#non-followers h4 {
+  margin-left: -2rem;
+  padding: 0 1rem;
+  font-weight: normal;
+}
+
+.copyright {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.copyright a {
+  color: inherit;
+  opacity: 0.5;
 }

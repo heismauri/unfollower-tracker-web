@@ -1,0 +1,23 @@
+{
+  "name": "unfollower-tracker-web",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heismauri/unfollower-tracker-web.git"
+  },
+  "author": "heismauri",
+  "bugs": {
+    "url": "https://github.com/heismauri/unfollower-tracker-web/issues"
+  },
+  "homepage": "https://github.com/heismauri/unfollower-tracker-web#readme",
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-airbnb-base": "14.2.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}

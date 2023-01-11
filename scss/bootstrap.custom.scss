@@ -1,0 +1,20 @@
+// Variables
+// // Fonts
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+$font-family-sans-serif: 'Open Sans', sans-serif;
+$headings-font-family: 'Poppins', sans-serif;
+$body-color: #3c4142;
+
+// // Colors
+$primary: #8c5bc5;
+$secondary: #151e3f;
+
+// // White text on clearer buttons
+$min-contrast-ratio: 1.5;
+
+// // Font weight on headings
+$headings-font-weight: 700;
+
+// Main boostrap scss
+@import "../node_modules/bootstrap/scss/bootstrap";
